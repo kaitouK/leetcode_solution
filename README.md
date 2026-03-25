@@ -33,5 +33,6 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0180-consecutive-numbers](https://github.com/kaitouK/leetcode_solution/tree/main/0180-consecutive-numbers/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/kaitouK/leetcode_solution/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 <!---LeetCode Topics End-->
