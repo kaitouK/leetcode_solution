@@ -30,4 +30,8 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/kaitouK/leetcode_solution/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/kaitouK/leetcode_solution/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 <!---LeetCode Topics End-->
