@@ -38,5 +38,6 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kaitouK/leetcode_solution/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/kaitouK/leetcode_solution/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 <!---LeetCode Topics End-->
