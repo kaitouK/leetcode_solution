@@ -35,4 +35,8 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/kaitouK/leetcode_solution/tree/main/0180-consecutive-numbers/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/kaitouK/leetcode_solution/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/kaitouK/leetcode_solution/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 <!---LeetCode Topics End-->
