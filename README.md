@@ -56,4 +56,16 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/kaitouK/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/kaitouK/leetcode_solution/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/kaitouK/leetcode_solution/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/kaitouK/leetcode_solution/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
