@@ -9,6 +9,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0189-rotate-array](https://github.com/kaitouK/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kaitouK/leetcode_solution/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kaitouK/leetcode_solution/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/kaitouK/leetcode_solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/kaitouK/leetcode_solution/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kaitouK/leetcode_solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/kaitouK/leetcode_solution/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -52,6 +53,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/kaitouK/leetcode_solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kaitouK/leetcode_solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
