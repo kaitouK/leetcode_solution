@@ -1,7 +1,14 @@
 public class Solution {
     public int[] SeparateDigits(int[] nums) {
-        string combined=string.Concat(nums);
-        int[] ans = combined.Select(c=>c-'0').ToArray();
-        return ans;
+        List<int> ans= new List<int>();
+        for(int i=nums.Length-1;i>=0;--i){
+            int x = nums[i];
+            while(x>0){
+                ans.Add(x%10);
+                x/=10;
+            }
+        }
+        ans.Reverse();
+        return ans.ToArray();
     }
 }
