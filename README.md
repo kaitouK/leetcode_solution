@@ -44,6 +44,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/kaitouK/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/kaitouK/leetcode_solution/tree/main/0344-reverse-string/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kaitouK/leetcode_solution/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/kaitouK/leetcode_solution/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
@@ -62,6 +63,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/kaitouK/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/kaitouK/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/kaitouK/leetcode_solution/tree/main/0344-reverse-string/) | Easy |
 ## Tree
