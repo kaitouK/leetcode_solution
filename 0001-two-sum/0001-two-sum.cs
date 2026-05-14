@@ -2,9 +2,9 @@ public class Solution {
     public int[] TwoSum(int[] nums, int target) {
         var hash=new Dictionary<int,int>();
         for(int i=0;i<nums.Length;++i){
-            if(hash.TryGetValue(nums[i],out int key))
+            if(hash.ContainsKey(nums[i]))
             {
-                return new[] {key,i};
+                return new[] {hash[nums[i]],i};
             }
             else
             {
