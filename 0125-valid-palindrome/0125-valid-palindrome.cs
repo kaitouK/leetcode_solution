@@ -3,7 +3,14 @@ public class Solution {
         var s1=new StringBuilder();
         foreach (char c in s){
             if(Char.IsLetterOrDigit(c))
-            s1.Append(Char.ToLower(c));
+            {
+            if(Char.IsLower(c)){
+                s1.Append(c);
+            }
+            else{
+                s1.Append(Char.ToLower(c));
+            }
+            }
         }
         int left=0,right=s1.Length-1;
         while(left<right)
