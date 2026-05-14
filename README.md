@@ -8,6 +8,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kaitouK/leetcode_solution/tree/main/0001-two-sum/) | Easy |
 | [0189-rotate-array](https://github.com/kaitouK/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
+| [0704-binary-search](https://github.com/kaitouK/leetcode_solution/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/kaitouK/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kaitouK/leetcode_solution/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kaitouK/leetcode_solution/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -86,6 +87,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/kaitouK/leetcode_solution/tree/main/0069-sqrtx/) | Easy |
+| [0704-binary-search](https://github.com/kaitouK/leetcode_solution/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
