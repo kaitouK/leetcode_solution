@@ -45,6 +45,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0177-nth-highest-salary](https://github.com/kaitouK/leetcode_solution/tree/main/0177-nth-highest-salary/) | Medium |
 | [0180-consecutive-numbers](https://github.com/kaitouK/leetcode_solution/tree/main/0180-consecutive-numbers/) | Medium |
 | [0182-duplicate-emails](https://github.com/kaitouK/leetcode_solution/tree/main/0182-duplicate-emails/) | Easy |
+| [0183-customers-who-never-order](https://github.com/kaitouK/leetcode_solution/tree/main/0183-customers-who-never-order/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/kaitouK/leetcode_solution/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 ## String
 | Problem Name | Difficulty |
