@@ -42,6 +42,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/kaitouK/leetcode_solution/tree/main/0175-combine-two-tables/) | Easy |
+| [0177-nth-highest-salary](https://github.com/kaitouK/leetcode_solution/tree/main/0177-nth-highest-salary/) | Medium |
 | [0180-consecutive-numbers](https://github.com/kaitouK/leetcode_solution/tree/main/0180-consecutive-numbers/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/kaitouK/leetcode_solution/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 ## String
