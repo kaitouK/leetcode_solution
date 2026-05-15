@@ -1,17 +1,23 @@
 public class Solution {
-    int _target;
+    private static Random rand=new Random();
     public int FindKthLargest(int[] nums, int k) {
-        _target=k-1;
-        QuickSelect(nums,0,nums.Length-1);
+        int _target=k-1;
+        QuickSelect(nums,0,nums.Length-1,ref _target);
         return nums[_target];
     }
-    private void QuickSelect(int[] nums, int left, int right)
+    private int RandomizedPartition(int[] arr, int left,int right)
+    {
+        int pivotIndex=rand.Next(left,right+1);
+        Swap(arr,pivotIndex,left);
+        return Partition(arr,left,right);
+    }
+    private void QuickSelect(int[] nums, int left, int right,ref int _target)
     {
         if(left>=right)return;
-        int pivot=Partition(nums,left,right);
+        int pivot=RandomizedPartition(nums,left,right);
         if(pivot==_target)return;
-        if(pivot<_target)QuickSelect(nums,pivot+1,right);
-        if(pivot>_target)QuickSelect(nums,left,pivot-1);
+        if(pivot<_target)QuickSelect(nums,pivot+1,right,ref _target);
+        if(pivot>_target)QuickSelect(nums,left,pivot-1,ref _target);
     }
     private int Partition(int[] nums, int left,int right)
     {
