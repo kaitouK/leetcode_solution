@@ -77,14 +77,17 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kaitouK/leetcode_solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kaitouK/leetcode_solution/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kaitouK/leetcode_solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kaitouK/leetcode_solution/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kaitouK/leetcode_solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kaitouK/leetcode_solution/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -131,4 +134,8 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kaitouK/leetcode_solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kaitouK/leetcode_solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
