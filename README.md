@@ -78,16 +78,19 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaitouK/leetcode_solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/kaitouK/leetcode_solution/tree/main/0100-same-tree/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kaitouK/leetcode_solution/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaitouK/leetcode_solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/kaitouK/leetcode_solution/tree/main/0100-same-tree/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kaitouK/leetcode_solution/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaitouK/leetcode_solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/kaitouK/leetcode_solution/tree/main/0100-same-tree/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kaitouK/leetcode_solution/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -138,4 +141,8 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaitouK/leetcode_solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/kaitouK/leetcode_solution/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
