@@ -64,6 +64,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/kaitouK/leetcode_solution/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/kaitouK/leetcode_solution/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/kaitouK/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kaitouK/leetcode_solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
