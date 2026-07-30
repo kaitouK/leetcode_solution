@@ -57,6 +57,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/kaitouK/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/kaitouK/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/kaitouK/leetcode_solution/tree/main/0344-reverse-string/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kaitouK/leetcode_solution/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/kaitouK/leetcode_solution/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
@@ -108,6 +109,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kaitouK/leetcode_solution/tree/main/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/kaitouK/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kaitouK/leetcode_solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0242-valid-anagram](https://github.com/kaitouK/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0912-sort-an-array](https://github.com/kaitouK/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
