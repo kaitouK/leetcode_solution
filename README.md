@@ -8,6 +8,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kaitouK/leetcode_solution/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kaitouK/leetcode_solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0049-group-anagrams](https://github.com/kaitouK/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaitouK/leetcode_solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kaitouK/leetcode_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/kaitouK/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
@@ -56,6 +57,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/kaitouK/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/kaitouK/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/kaitouK/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/kaitouK/leetcode_solution/tree/main/0344-reverse-string/) | Easy |
@@ -109,6 +111,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kaitouK/leetcode_solution/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/kaitouK/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/kaitouK/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -124,6 +127,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/kaitouK/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/kaitouK/leetcode_solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/kaitouK/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0912-sort-an-array](https://github.com/kaitouK/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
