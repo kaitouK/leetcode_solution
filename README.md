@@ -10,6 +10,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kaitouK/leetcode_solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/kaitouK/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaitouK/leetcode_solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/kaitouK/leetcode_solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kaitouK/leetcode_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/kaitouK/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/kaitouK/leetcode_solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -113,6 +114,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kaitouK/leetcode_solution/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/kaitouK/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/kaitouK/leetcode_solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/kaitouK/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kaitouK/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 ## Binary Search
@@ -169,4 +171,8 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/kaitouK/leetcode_solution/tree/main/0100-same-tree/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kaitouK/leetcode_solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
