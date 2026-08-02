@@ -18,6 +18,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0215-kth-largest-element-in-an-array](https://github.com/kaitouK/leetcode_solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/kaitouK/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0704-binary-search](https://github.com/kaitouK/leetcode_solution/tree/main/0704-binary-search/) | Easy |
+| [0877-stone-game](https://github.com/kaitouK/leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/kaitouK/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kaitouK/leetcode_solution/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kaitouK/leetcode_solution/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -37,6 +38,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaitouK/leetcode_solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0877-stone-game](https://github.com/kaitouK/leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kaitouK/leetcode_solution/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -74,6 +76,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0009-palindrome-number](https://github.com/kaitouK/leetcode_solution/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/kaitouK/leetcode_solution/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/kaitouK/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
+| [0877-stone-game](https://github.com/kaitouK/leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kaitouK/leetcode_solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -181,4 +184,8 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kaitouK/leetcode_solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/kaitouK/leetcode_solution/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
