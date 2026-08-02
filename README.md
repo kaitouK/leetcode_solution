@@ -18,6 +18,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0189-rotate-array](https://github.com/kaitouK/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/kaitouK/leetcode_solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/kaitouK/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
+| [0486-predict-the-winner](https://github.com/kaitouK/leetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0704-binary-search](https://github.com/kaitouK/leetcode_solution/tree/main/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/kaitouK/leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/kaitouK/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
@@ -39,6 +40,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaitouK/leetcode_solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0486-predict-the-winner](https://github.com/kaitouK/leetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/kaitouK/leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kaitouK/leetcode_solution/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 ## Prefix Sum
@@ -77,6 +79,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0009-palindrome-number](https://github.com/kaitouK/leetcode_solution/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/kaitouK/leetcode_solution/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/kaitouK/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
+| [0486-predict-the-winner](https://github.com/kaitouK/leetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/kaitouK/leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kaitouK/leetcode_solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Simulation
@@ -189,9 +192,14 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/kaitouK/leetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/kaitouK/leetcode_solution/tree/main/0877-stone-game/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/kaitouK/leetcode_solution/tree/main/0011-container-with-most-water/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/kaitouK/leetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
