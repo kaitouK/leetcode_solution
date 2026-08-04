@@ -74,6 +74,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0125-valid-palindrome](https://github.com/kaitouK/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/kaitouK/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/kaitouK/leetcode_solution/tree/main/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/kaitouK/leetcode_solution/tree/main/0567-permutation-in-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kaitouK/leetcode_solution/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/kaitouK/leetcode_solution/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kaitouK/leetcode_solution/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -101,6 +102,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaitouK/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/kaitouK/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/kaitouK/leetcode_solution/tree/main/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/kaitouK/leetcode_solution/tree/main/0567-permutation-in-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +136,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0128-longest-consecutive-sequence](https://github.com/kaitouK/leetcode_solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/kaitouK/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kaitouK/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
+| [0567-permutation-in-string](https://github.com/kaitouK/leetcode_solution/tree/main/0567-permutation-in-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,5 +218,6 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaitouK/leetcode_solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0567-permutation-in-string](https://github.com/kaitouK/leetcode_solution/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/kaitouK/leetcode_solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
