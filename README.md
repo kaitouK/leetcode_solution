@@ -19,6 +19,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0189-rotate-array](https://github.com/kaitouK/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/kaitouK/leetcode_solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/kaitouK/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/kaitouK/leetcode_solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0486-predict-the-winner](https://github.com/kaitouK/leetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/kaitouK/leetcode_solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/kaitouK/leetcode_solution/tree/main/0704-binary-search/) | Easy |
@@ -48,6 +49,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/kaitouK/leetcode_solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [2906-construct-product-matrix](https://github.com/kaitouK/leetcode_solution/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/kaitouK/leetcode_solution/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Enumeration
