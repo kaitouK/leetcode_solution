@@ -11,10 +11,16 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        if(!head||!head->next)return head; // base case : no more next pointer or current pointer is null
-        ListNode* prev=reverseList(head->next); // get next pointer first 
-        head->next->next=head; // 1->2 becomes 1->2->1
-        head->next=nullptr; // disconnect 1->2, leave 2->1 only
+        if(!head)return nullptr;
+        ListNode* prev = nullptr;
+        ListNode* curr = head;
+        ListNode* next = nullptr;
+        while(curr){
+            next=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=next;
+        }
         return prev;
     }
 };
