@@ -74,6 +74,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaitouK/leetcode_solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/kaitouK/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/kaitouK/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/kaitouK/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/kaitouK/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/kaitouK/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
@@ -191,6 +192,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/kaitouK/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaitouK/leetcode_solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/kaitouK/leetcode_solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kaitouK/leetcode_solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -225,4 +227,8 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaitouK/leetcode_solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/kaitouK/leetcode_solution/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/kaitouK/leetcode_solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/kaitouK/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
