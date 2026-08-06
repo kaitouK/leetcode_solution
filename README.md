@@ -219,6 +219,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/kaitouK/leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/kaitouK/leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/kaitouK/leetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 ## Trie
@@ -242,5 +243,6 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/kaitouK/leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/kaitouK/leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
