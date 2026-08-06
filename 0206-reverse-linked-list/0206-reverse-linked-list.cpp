@@ -11,22 +11,10 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        if(!head)return nullptr;
-        stack<ListNode*> st;
-        ListNode *node=head;
-        while(node){
-            st.push(node);
-            node=node->next;
-        }
-        node=st.top();
-        head=st.top();
-        st.pop();
-        while(!st.empty()){
-            node->next=st.top();
-            node=st.top();
-            st.pop();
-        }
-        node->next=nullptr;
-        return head;
+        if(!head||!head->next)return head; // base case : no more next pointer or current pointer is null
+        ListNode* prev=reverseList(head->next); // get next pointer first 
+        head->next->next=head; // 1->2 becomes 1->2->1
+        head->next=nullptr; // disconnect 1->2, leave 2->1 only
+        return prev;
     }
 };
