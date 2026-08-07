@@ -198,6 +198,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0144-binary-tree-preorder-traversal](https://github.com/kaitouK/leetcode_solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kaitouK/leetcode_solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/kaitouK/leetcode_solution/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/kaitouK/leetcode_solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/kaitouK/leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -240,9 +241,14 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/kaitouK/leetcode_solution/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/kaitouK/leetcode_solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/kaitouK/leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/kaitouK/leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/kaitouK/leetcode_solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
