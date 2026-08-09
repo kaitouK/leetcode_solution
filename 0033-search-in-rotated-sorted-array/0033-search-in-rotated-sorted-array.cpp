@@ -10,10 +10,9 @@ public:
                 right = mid;
         }
         int pivot = left;
-        if (pivot == 0)
-            return BS(nums, pivot, nums.size() - 1, target);
-        return target >= nums[0] ? BS(nums, 0, pivot - 1, target)
-                                 : BS(nums, pivot, nums.size() - 1, target);
+        return target >= nums[0] && pivot > 0
+                   ? BS(nums, 0, pivot - 1, target)
+                   : BS(nums, pivot, nums.size() - 1, target);
     }
     int BS(vector<int>& nums, int left, int right, int target) {
         while (left <= right) {
