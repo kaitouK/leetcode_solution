@@ -11,6 +11,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0014-longest-common-prefix](https://github.com/kaitouK/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/kaitouK/leetcode_solution/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kaitouK/leetcode_solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/kaitouK/leetcode_solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/kaitouK/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/kaitouK/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaitouK/leetcode_solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -151,6 +152,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kaitouK/leetcode_solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/kaitouK/leetcode_solution/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kaitouK/leetcode_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaitouK/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
