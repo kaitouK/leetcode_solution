@@ -14,6 +14,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0033-search-in-rotated-sorted-array](https://github.com/kaitouK/leetcode_solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/kaitouK/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/kaitouK/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/kaitouK/leetcode_solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kaitouK/leetcode_solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaitouK/leetcode_solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/kaitouK/leetcode_solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -39,6 +40,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kaitouK/leetcode_solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kaitouK/leetcode_solution/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kaitouK/leetcode_solution/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/kaitouK/leetcode_solution/tree/main/2906-construct-product-matrix/) | Medium |
@@ -157,6 +159,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kaitouK/leetcode_solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/kaitouK/leetcode_solution/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/kaitouK/leetcode_solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kaitouK/leetcode_solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kaitouK/leetcode_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaitouK/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
