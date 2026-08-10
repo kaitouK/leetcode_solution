@@ -18,8 +18,6 @@ public:
         }
     }
     void shift(vector<int>& nums1, int left, int right) {
-        if (left == right)
-            return;
         while (left < right) {
             swap(nums1[right], nums1[right - 1]);
             right--;
