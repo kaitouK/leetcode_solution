@@ -75,6 +75,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0182-duplicate-emails](https://github.com/kaitouK/leetcode_solution/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/kaitouK/leetcode_solution/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/kaitouK/leetcode_solution/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/kaitouK/leetcode_solution/tree/main/0197-rising-temperature/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/kaitouK/leetcode_solution/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 ## String
 | Problem Name | Difficulty |
