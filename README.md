@@ -36,6 +36,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [2553-separate-the-digits-in-an-array](https://github.com/kaitouK/leetcode_solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/kaitouK/leetcode_solution/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kaitouK/leetcode_solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kaitouK/leetcode_solution/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3238-find-the-number-of-winning-players](https://github.com/kaitouK/leetcode_solution/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/kaitouK/leetcode_solution/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Matrix
@@ -170,6 +171,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0217-contains-duplicate](https://github.com/kaitouK/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kaitouK/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0567-permutation-in-string](https://github.com/kaitouK/leetcode_solution/tree/main/0567-permutation-in-string/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kaitouK/leetcode_solution/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3238-find-the-number-of-winning-players](https://github.com/kaitouK/leetcode_solution/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -197,6 +199,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0217-contains-duplicate](https://github.com/kaitouK/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kaitouK/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0912-sort-an-array](https://github.com/kaitouK/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kaitouK/leetcode_solution/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
