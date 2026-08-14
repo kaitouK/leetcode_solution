@@ -12,6 +12,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0015-3sum](https://github.com/kaitouK/leetcode_solution/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kaitouK/leetcode_solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/kaitouK/leetcode_solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0046-permutations](https://github.com/kaitouK/leetcode_solution/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/kaitouK/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/kaitouK/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/kaitouK/leetcode_solution/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -307,6 +308,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/kaitouK/leetcode_solution/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/kaitouK/leetcode_solution/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
