@@ -12,6 +12,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0015-3sum](https://github.com/kaitouK/leetcode_solution/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kaitouK/leetcode_solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/kaitouK/leetcode_solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/kaitouK/leetcode_solution/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/kaitouK/leetcode_solution/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/kaitouK/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/kaitouK/leetcode_solution/tree/main/0051-n-queens/) | Hard |
@@ -309,6 +310,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/kaitouK/leetcode_solution/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/kaitouK/leetcode_solution/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/kaitouK/leetcode_solution/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/kaitouK/leetcode_solution/tree/main/0052-n-queens-ii/) | Hard |
