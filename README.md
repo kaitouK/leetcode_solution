@@ -14,6 +14,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0033-search-in-rotated-sorted-array](https://github.com/kaitouK/leetcode_solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/kaitouK/leetcode_solution/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/kaitouK/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/kaitouK/leetcode_solution/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/kaitouK/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/kaitouK/leetcode_solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/kaitouK/leetcode_solution/tree/main/0078-subsets/) | Medium |
@@ -309,9 +310,14 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/kaitouK/leetcode_solution/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/kaitouK/leetcode_solution/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/kaitouK/leetcode_solution/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/kaitouK/leetcode_solution/tree/main/0078-subsets/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/kaitouK/leetcode_solution/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
