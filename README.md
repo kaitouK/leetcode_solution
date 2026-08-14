@@ -311,6 +311,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | ------- | ------- |
 | [0046-permutations](https://github.com/kaitouK/leetcode_solution/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/kaitouK/leetcode_solution/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/kaitouK/leetcode_solution/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/kaitouK/leetcode_solution/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -320,4 +321,5 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/kaitouK/leetcode_solution/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/kaitouK/leetcode_solution/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
