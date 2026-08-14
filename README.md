@@ -15,6 +15,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0049-group-anagrams](https://github.com/kaitouK/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/kaitouK/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/kaitouK/leetcode_solution/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/kaitouK/leetcode_solution/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kaitouK/leetcode_solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kaitouK/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaitouK/leetcode_solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -303,4 +304,12 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kaitouK/leetcode_solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/kaitouK/leetcode_solution/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/kaitouK/leetcode_solution/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/kaitouK/leetcode_solution/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
