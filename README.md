@@ -57,6 +57,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/kaitouK/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/kaitouK/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaitouK/leetcode_solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0486-predict-the-winner](https://github.com/kaitouK/leetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/kaitouK/leetcode_solution/tree/main/0877-stone-game/) | Medium |
@@ -103,6 +104,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0009-palindrome-number](https://github.com/kaitouK/leetcode_solution/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/kaitouK/leetcode_solution/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/kaitouK/leetcode_solution/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/kaitouK/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaitouK/leetcode_solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/kaitouK/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
 | [0486-predict-the-winner](https://github.com/kaitouK/leetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
@@ -327,4 +329,8 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | ------- | ------- |
 | [0051-n-queens](https://github.com/kaitouK/leetcode_solution/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/kaitouK/leetcode_solution/tree/main/0052-n-queens-ii/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/kaitouK/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
