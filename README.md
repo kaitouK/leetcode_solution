@@ -15,6 +15,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0039-combination-sum](https://github.com/kaitouK/leetcode_solution/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/kaitouK/leetcode_solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/kaitouK/leetcode_solution/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/kaitouK/leetcode_solution/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/kaitouK/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/kaitouK/leetcode_solution/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/kaitouK/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
@@ -203,6 +204,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/kaitouK/leetcode_solution/tree/main/0015-3sum/) | Medium |
+| [0047-permutations-ii](https://github.com/kaitouK/leetcode_solution/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/kaitouK/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kaitouK/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/kaitouK/leetcode_solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -319,6 +321,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0039-combination-sum](https://github.com/kaitouK/leetcode_solution/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/kaitouK/leetcode_solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/kaitouK/leetcode_solution/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/kaitouK/leetcode_solution/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/kaitouK/leetcode_solution/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/kaitouK/leetcode_solution/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/kaitouK/leetcode_solution/tree/main/0077-combinations/) | Medium |
