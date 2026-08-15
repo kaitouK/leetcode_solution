@@ -22,6 +22,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0078-subsets](https://github.com/kaitouK/leetcode_solution/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kaitouK/leetcode_solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kaitouK/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/kaitouK/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaitouK/leetcode_solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/kaitouK/leetcode_solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaitouK/leetcode_solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -322,10 +323,12 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0052-n-queens-ii](https://github.com/kaitouK/leetcode_solution/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/kaitouK/leetcode_solution/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/kaitouK/leetcode_solution/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/kaitouK/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/kaitouK/leetcode_solution/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/kaitouK/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
