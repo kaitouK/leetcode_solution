@@ -34,6 +34,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0215-kth-largest-element-in-an-array](https://github.com/kaitouK/leetcode_solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/kaitouK/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/kaitouK/leetcode_solution/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0322-coin-change](https://github.com/kaitouK/leetcode_solution/tree/main/0322-coin-change/) | Medium |
 | [0486-predict-the-winner](https://github.com/kaitouK/leetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/kaitouK/leetcode_solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/kaitouK/leetcode_solution/tree/main/0704-binary-search/) | Easy |
@@ -63,6 +64,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0070-climbing-stairs](https://github.com/kaitouK/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaitouK/leetcode_solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/kaitouK/leetcode_solution/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/kaitouK/leetcode_solution/tree/main/0322-coin-change/) | Medium |
 | [0486-predict-the-winner](https://github.com/kaitouK/leetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/kaitouK/leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kaitouK/leetcode_solution/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -256,6 +258,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0102-binary-tree-level-order-traversal](https://github.com/kaitouK/leetcode_solution/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaitouK/leetcode_solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/kaitouK/leetcode_solution/tree/main/0226-invert-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/kaitouK/leetcode_solution/tree/main/0322-coin-change/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -341,4 +344,12 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/kaitouK/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/kaitouK/leetcode_solution/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/kaitouK/leetcode_solution/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
