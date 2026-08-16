@@ -1,27 +1,32 @@
 class Solution {
 public:
-    int m, n;
-    void dfs(vector<vector<bool>>& used, vector<vector<char>>& grid, int x,
-             int y) {
-        if (x >= m || y >= n || x < 0 || y < 0 || grid[x][y] == '0' ||
-            used[x][y])
-            return;
-        used[x][y] = true;
-        dfs(used, grid, x, y + 1);
-        dfs(used, grid, x + 1, y);
-        dfs(used, grid, x, y - 1);
-        dfs(used, grid, x - 1, y);
-    }
     int numIslands(vector<vector<char>>& grid) {
-        m = grid.size(), n = grid[0].size();
-        int count = 0;
+        int m = grid.size(), n = grid[0].size(), count = 0;
+        const int dx[4] = {0, 1, 0, -1}, dy[4] = {1, 0, -1, 0};
         vector<vector<bool>> used(m, vector<bool>(n, false));
+
         for (int i = 0; i < m; ++i) {
             for (int j = 0; j < n; ++j) {
                 if (used[i][j] || grid[i][j] == '0')
                     continue;
                 ++count;
-                dfs(used, grid, i, j);
+                // bfs
+                queue<pair<int, int>> q;
+                q.push({i, j});
+                used[i][j] = true;
+                while (!q.empty()) {
+                    auto [x, y] = q.front();
+                    q.pop();
+                    for (int d = 0; d < 4; ++d) {
+                        int nx = x + dx[d], ny = y + dy[d];
+                        if (nx < 0 || nx >= m || ny < 0 || ny >= n)
+                            continue;
+                        if (used[nx][ny] || grid[nx][ny] == '0')
+                            continue;
+                        used[nx][ny] = true;
+                        q.push({nx, ny});
+                    }
+                }
             }
         }
         return count;
