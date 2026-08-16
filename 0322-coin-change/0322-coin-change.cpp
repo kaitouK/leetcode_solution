@@ -1,17 +1,13 @@
 class Solution {
 public:
     int coinChange(vector<int>& coins, int n) {
-        if (n == 0)
-            return 0;
-        vector<int> dp(n + 1, -1);
+        vector<int> dp(n + 1, n + 1);
         dp[0] = 0;
         for (int i = 0; i <= n; ++i) {
-            for (int j = 0; j < coins.size(); ++j) {
-                if (i - coins[j] < 0 || dp[i - coins[j]] == -1)
-                    continue;
-                dp[i] = dp[i] == -1 ? dp[i - coins[j]] + 1 : min(dp[i - coins[j]] + 1, dp[i]);
-            }
+            for (int c : coins)
+                if (c <= i)
+                    dp[i] = min(dp[i], dp[i - c] + 1);
         }
-        return dp[n];
+        return dp[n] > n ? -1 : dp[n];
     }
 };
