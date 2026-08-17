@@ -133,6 +133,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0088-merge-sorted-array](https://github.com/kaitouK/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/kaitouK/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/kaitouK/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/kaitouK/leetcode_solution/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaitouK/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/kaitouK/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/kaitouK/leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -248,6 +249,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kaitouK/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaitouK/leetcode_solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0143-reorder-list](https://github.com/kaitouK/leetcode_solution/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/kaitouK/leetcode_solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kaitouK/leetcode_solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaitouK/leetcode_solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -281,6 +283,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/kaitouK/leetcode_solution/tree/main/0050-powx-n/) | Medium |
+| [0143-reorder-list](https://github.com/kaitouK/leetcode_solution/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/kaitouK/leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/kaitouK/leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/kaitouK/leetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
@@ -308,6 +311,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kaitouK/leetcode_solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/kaitouK/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/kaitouK/leetcode_solution/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/kaitouK/leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/kaitouK/leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Queue
