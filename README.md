@@ -119,6 +119,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0486-predict-the-winner](https://github.com/kaitouK/leetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/kaitouK/leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kaitouK/leetcode_solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kaitouK/leetcode_solution/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
