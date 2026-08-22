@@ -41,6 +41,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0704-binary-search](https://github.com/kaitouK/leetcode_solution/tree/main/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/kaitouK/leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/kaitouK/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/kaitouK/leetcode_solution/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kaitouK/leetcode_solution/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kaitouK/leetcode_solution/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/kaitouK/leetcode_solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -190,6 +191,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0217-contains-duplicate](https://github.com/kaitouK/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kaitouK/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0567-permutation-in-string](https://github.com/kaitouK/leetcode_solution/tree/main/0567-permutation-in-string/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/kaitouK/leetcode_solution/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kaitouK/leetcode_solution/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3238-find-the-number-of-winning-players](https://github.com/kaitouK/leetcode_solution/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 ## Binary Search
@@ -281,6 +283,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/kaitouK/leetcode_solution/tree/main/0011-container-with-most-water/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/kaitouK/leetcode_solution/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,6 +349,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | ------- | ------- |
 | [0078-subsets](https://github.com/kaitouK/leetcode_solution/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/kaitouK/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/kaitouK/leetcode_solution/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
