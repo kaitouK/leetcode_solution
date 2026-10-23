@@ -50,6 +50,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kaitouK/leetcode_solution/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3238-find-the-number-of-winning-players](https://github.com/kaitouK/leetcode_solution/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/kaitouK/leetcode_solution/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/kaitouK/leetcode_solution/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -350,6 +351,7 @@ try learning c# by leetcode, manage to get better time complexity and space comp
 | [0078-subsets](https://github.com/kaitouK/leetcode_solution/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/kaitouK/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/kaitouK/leetcode_solution/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/kaitouK/leetcode_solution/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
